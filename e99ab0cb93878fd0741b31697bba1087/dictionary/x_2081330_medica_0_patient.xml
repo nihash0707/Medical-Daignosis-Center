@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="4301c14b93c78fd0741b31697bba108f" label="Patient" max_length="40" name="x_2081330_medica_0_patient" type="collection">
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="string"/>
+        <element label="Patient ID" max_length="40" name="patient_id" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <element choice="1" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Female"/>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+                <element inactive_on_update="false" label="Male"/>
+                <element inactive_on_update="false" label="Other"/>
+            </choice>
+        </element>
+        <element label="Address" max_length="255" name="address" type="string_full_utf8"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="DateOf Birth" max_length="40" name="dateof_birth" type="glide_date"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="payment_status" table="x_2081330_medica_0_appointment_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>payment_status</element>
+            <name>x_2081330_medica_0_appointment_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-05 05:04:05</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>payment_status</sys_name>
+            <sys_package display_value="Medical Diagnosis Center" source="x_2081330_medica_0">e99ab0cb93878fd0741b31697bba1087</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Medical Diagnosis Center">e99ab0cb93878fd0741b31697bba1087</sys_scope>
+            <sys_update_name>sys_choice_x_2081330_medica_0_appointment_table_payment_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-05 05:04:05</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>payment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Failed</label>
+            <language>en</language>
+            <name>x_2081330_medica_0_appointment_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-05 05:04:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-05 05:04:54</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>payment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refunded</label>
+            <language>en</language>
+            <name>x_2081330_medica_0_appointment_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-05 05:05:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-05 05:05:05</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>payment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending, Paid</label>
+            <language>en</language>
+            <name>x_2081330_medica_0_appointment_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-05 05:04:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-05 05:04:42</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>payment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- New choice --</label>
+            <language>en</language>
+            <name>x_2081330_medica_0_appointment_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-05 05:04:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-05 05:04:05</sys_updated_on>
+            <value>-- New choice --</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

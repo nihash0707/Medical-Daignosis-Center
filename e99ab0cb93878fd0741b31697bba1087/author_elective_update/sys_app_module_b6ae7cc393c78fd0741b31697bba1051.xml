@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="DIAGNOSTIC TEST">baae7cc393c78fd0741b31697bba1033</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>DIAGNOSTIC TESTs</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_2081330_medica_0_x_1883080_medica_0_diagnostic_test</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_2081330_medica_0.diagnostic_test_user</roles>
+        <route/>
+        <screen/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-05 04:36:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b6ae7cc393c78fd0741b31697bba1051</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DIAGNOSTIC TESTs</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Medical Diagnosis Center" source="x_2081330_medica_0">e99ab0cb93878fd0741b31697bba1087</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Medical Diagnosis Center">e99ab0cb93878fd0741b31697bba1087</sys_scope>
+        <sys_update_name>sys_app_module_b6ae7cc393c78fd0741b31697bba1051</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-05 04:36:14</sys_updated_on>
+        <timeline_page/>
+        <title>DIAGNOSTIC TESTs</title>
+        <uncancelable>false</uncancelable>
+        <ux_list/>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Medical Diagnosis Center">e99ab0cb93878fd0741b31697bba1087</application>
+        <file_path/>
+        <instance_id>4c2722da3be18b94986d048aa4e45a33</instance_id>
+        <instance_name>dev410248</instance_name>
+        <name>sys_app_module_b6ae7cc393c78fd0741b31697bba1051</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="DIAGNOSTIC TEST">baae7cc393c78fd0741b31697bba1033</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>DIAGNOSTIC TESTs</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_2081330_medica_0_x_1883080_medica_0_diagnostic_test</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_2081330_medica_0.diagnostic_test_user</roles><route/><screen/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-05 04:36:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b6ae7cc393c78fd0741b31697bba1051</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DIAGNOSTIC TESTs</sys_name><sys_overrides/><sys_package display_value="Medical Diagnosis Center" source="x_2081330_medica_0">e99ab0cb93878fd0741b31697bba1087</sys_package><sys_policy/><sys_scope display_value="Medical Diagnosis Center">e99ab0cb93878fd0741b31697bba1087</sys_scope><sys_update_name>sys_app_module_b6ae7cc393c78fd0741b31697bba1051</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-05 04:36:14</sys_updated_on><timeline_page/><title>DIAGNOSTIC TESTs</title><uncancelable>false</uncancelable><ux_list/><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1536044769</payload_hash>
+        <record_name>DIAGNOSTIC TESTs</record_name>
+        <reverted_from/>
+        <source>ad9ab0cb93878fd0741b31697bba10ce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-05 04:36:14</sys_created_on>
+        <sys_id>36ae7cc393c78fd0741b31697bba1055</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a06fda53da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-05 04:36:14</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f2ae7cc3afc78fd0c0ad01112b414854</update_guid>
+        <update_guid_history>f2ae7cc3afc78fd0c0ad01112b414854:1536044769</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="DIAGNOSTIC TESTs">a401414b93c78fd0741b31697bba103b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-05 04:46:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>9035e988dd27470f9c2b317d3bcbb239</sys_id>
+        <sys_metadata>b6ae7cc393c78fd0741b31697bba1051</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DIAGNOSTIC TESTs</sys_name>
+        <sys_package display_value="Medical Diagnosis Center" source="x_2081330_medica_0">e99ab0cb93878fd0741b31697bba1087</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Medical Diagnosis Center">e99ab0cb93878fd0741b31697bba1087</sys_scope>
+        <sys_scope_delete display_value="">4bd07885929140d58f7cfb60251443b9</sys_scope_delete>
+        <sys_update_name>sys_app_module_b6ae7cc393c78fd0741b31697bba1051</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b6ae7cc393c78fd0741b31697bba1051">36ae7cc393c78fd0741b31697bba1055</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-05 04:46:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

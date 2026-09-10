@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="DIAGNOSTIC TEST">baae7cc393c78fd0741b31697bba1033</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>DIAGNOSTIC TESTs</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_2081330_medica_0_diagnostic_test</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_2081330_medica_0.diagnostic_test_user</roles>
+        <route/>
+        <screen/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-05 04:49:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d291858b93c78fd0741b31697bba103c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DIAGNOSTIC TESTs</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Medical Diagnosis Center" source="x_2081330_medica_0">e99ab0cb93878fd0741b31697bba1087</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Medical Diagnosis Center">e99ab0cb93878fd0741b31697bba1087</sys_scope>
+        <sys_update_name>sys_app_module_d291858b93c78fd0741b31697bba103c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-05 04:49:02</sys_updated_on>
+        <timeline_page/>
+        <title>DIAGNOSTIC TESTs</title>
+        <uncancelable>false</uncancelable>
+        <ux_list/>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

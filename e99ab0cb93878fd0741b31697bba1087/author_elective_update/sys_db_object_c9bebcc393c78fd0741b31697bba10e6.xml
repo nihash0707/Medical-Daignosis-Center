@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <filter_extension/>
+        <is_data_interface>false</is_data_interface>
+        <is_df_table>false</is_df_table>
+        <is_extendable>false</is_extendable>
+        <label> Patient</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_2081330_medica_0_x_1883080_medica_0_patient</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-05 04:36:55</sys_created_on>
+        <sys_id>c9bebcc393c78fd0741b31697bba10e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> Patient</sys_name>
+        <sys_package display_value="Medical Diagnosis Center" source="x_2081330_medica_0">e99ab0cb93878fd0741b31697bba1087</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Medical Diagnosis Center">e99ab0cb93878fd0741b31697bba1087</sys_scope>
+        <sys_update_name>sys_db_object_c9bebcc393c78fd0741b31697bba10e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-05 04:36:55</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_2081330_medica_0._patient_user" name="x_2081330_medica_0._patient_user">78def00793c78fd0741b31697bba100d</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Medical Diagnosis Center">e99ab0cb93878fd0741b31697bba1087</application>
+        <file_path/>
+        <instance_id>4c2722da3be18b94986d048aa4e45a33</instance_id>
+        <instance_name>dev410248</instance_name>
+        <name>sys_db_object_c9bebcc393c78fd0741b31697bba10e6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><filter_extension/><is_data_interface>false</is_data_interface><is_df_table>false</is_df_table><is_extendable>false</is_extendable><label> Patient</label><live_feed_enabled>false</live_feed_enabled><name>x_2081330_medica_0_x_1883080_medica_0_patient</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-05 04:36:55</sys_created_on><sys_id>c9bebcc393c78fd0741b31697bba10e6</sys_id><sys_mod_count>0</sys_mod_count><sys_name> Patient</sys_name><sys_package display_value="Medical Diagnosis Center" source="x_2081330_medica_0">e99ab0cb93878fd0741b31697bba1087</sys_package><sys_policy/><sys_scope display_value="Medical Diagnosis Center">e99ab0cb93878fd0741b31697bba1087</sys_scope><sys_update_name>sys_db_object_c9bebcc393c78fd0741b31697bba10e6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-05 04:36:55</sys_updated_on><update_access>false</update_access><user_role display_value="x_2081330_medica_0._patient_user" name="x_2081330_medica_0._patient_user">78def00793c78fd0741b31697bba100d</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-434190885</payload_hash>
+        <record_name> Patient</record_name>
+        <reverted_from/>
+        <source>ad9ab0cb93878fd0741b31697bba10ce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-05 04:36:57</sys_created_on>
+        <sys_id>95de340793c78fd0741b31697bba102a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a06fdafc6b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-05 04:36:57</sys_updated_on>
+        <type>Table</type>
+        <update_guid>55de340769c78fd0b9b31229da658229</update_guid>
+        <update_guid_history>55de340769c78fd0b9b31229da658229:-434190885</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-05 04:44:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>0d5c915c25ed489e9384344bfbc24951</sys_id>
+        <sys_metadata>c9bebcc393c78fd0741b31697bba10e6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> Patient</sys_name>
+        <sys_package display_value="Medical Diagnosis Center" source="x_2081330_medica_0">e99ab0cb93878fd0741b31697bba1087</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Medical Diagnosis Center">e99ab0cb93878fd0741b31697bba1087</sys_scope>
+        <sys_scope_delete display_value="">4bd07885929140d58f7cfb60251443b9</sys_scope_delete>
+        <sys_update_name>sys_db_object_c9bebcc393c78fd0741b31697bba10e6</sys_update_name>
+        <sys_update_version display_value="sys_db_object_c9bebcc393c78fd0741b31697bba10e6">95de340793c78fd0741b31697bba102a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-05 04:44:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
