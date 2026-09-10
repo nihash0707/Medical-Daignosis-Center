@@ -34,7 +34,7 @@
       return;
     }
     // Check if report already exists for this appointment
-    var existingReport = new GlideRecord('x_1883080_medica_0_report_table');
+    var existingReport = new GlideRecord('x_2081330_medica_0_report_table');
     existingReport.addQuery('appointment', current.getUniqueValue());
     existingReport.setLimit(1);
     existingReport.query();
@@ -59,7 +59,7 @@
     // GENERATE REALISTIC TEST RESULTS BASED ON TEST TYPE
     var findings = generateRealisticFindings(testName, testCategory, testCode);
     // Create report record
-    var reportGr = new GlideRecord('x_1883080_medica_0_report_table');
+    var reportGr = new GlideRecord('x_2081330_medica_0_report_table');
     reportGr.initialize();
     reportGr.setValue('report_number', reportNum);
     reportGr.setValue('appointment',   current.getUniqueValue());
@@ -207,7 +207,7 @@ gs.error('Auto Report Creation Error: ' + e.message);
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>223cc903934b8fd0741b31697bba1025</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name> Auto Create Report on Appointment Compl</sys_name>
         <sys_overrides/>
         <sys_package display_value="Medical Diagnosis Center" source="x_2081330_medica_0">e99ab0cb93878fd0741b31697bba1087</sys_package>
@@ -215,7 +215,7 @@ gs.error('Auto Report Creation Error: ' + e.message);
         <sys_scope display_value="Medical Diagnosis Center">e99ab0cb93878fd0741b31697bba1087</sys_scope>
         <sys_update_name>sys_script_223cc903934b8fd0741b31697bba1025</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-09-05 05:37:16</sys_updated_on>
+        <sys_updated_on>2026-09-10 16:12:29</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>

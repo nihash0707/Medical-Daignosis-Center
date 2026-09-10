@@ -4,7 +4,7 @@
         <element label="Report Number" max_length="40" name="report_number" type="string"/>
         <element label="Appointment" max_length="32" name="appointment" reference="x_2081330_medica_0_appointment_table" type="reference"/>
         <element label="Report File" max_length="40" name="report_file" type="file_attachment"/>
-        <element label="Patient" max_length="32" name="patient" reference="x_2081330_medica_0_patient" type="reference"/>
+        <element display="true" label="Patient" max_length="32" name="patient" reference="x_2081330_medica_0_patient" type="reference"/>
         <element label="Report Date" max_length="40" name="report_date" type="glide_date_time"/>
         <element label="Findings" max_length="8000" name="findings" type="html"/>
         <index name="index">
